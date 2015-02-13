@@ -1,0 +1,25 @@
+{
+  "name": "regression-check",
+  "version": "1.0.0",
+  "description": "A module for automating visual regression testing using headless browsers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brunoqueiros/regression-check.git"
+  },
+  "keywords": [
+    "css",
+    "testing",
+    "visual",
+    "regression"
+  ],
+  "author": "Bruno Queiros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunoqueiros/regression-check/issues"
+  },
+  "homepage": "https://github.com/brunoqueiros/regression-check"
+}
