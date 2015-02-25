@@ -27,7 +27,10 @@
     "grunt-cli": "^0.1.13"
   },
   "dependencies": {
-    "casperjs": "^1.1.0-beta3",
-    "resemblejs": "^1.2.1"
+    "image-diff": "^1.0.1",
+    "resemble": "^1.2.0",
+    "shelljs": "^0.3.0",
+    "slimerjs": "^0.9.5",
+    "system": "^0.1.0"
   }
 }
