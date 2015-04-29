@@ -36,6 +36,7 @@
     "extend": "^2.0.1",
     "image-diff": "^1.0.1",
     "resemble": "^1.2.0",
-    "slimerjs": "^0.9.5"
+    "slimerjs": "^0.9.5",
+    "system": "^0.1.0"
   }
 }
