@@ -32,6 +32,7 @@
   },
   "dependencies": {
     "babel": "^5.1.13",
+    "chalk": "^1.0.0",
     "extend": "^2.0.1",
     "image-diff": "^1.0.1",
     "resemble": "^1.2.0",
